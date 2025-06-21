@@ -77,12 +77,4 @@
 
 ### 👉 Let's build the future of data together.
 
----
 
-Would you like me to:
-
-1. Create a Markdown file with this content?
-2. Help you create and set up your GitHub profile repository (`koceilabarchiche/koceilabarchiche`)?
-3. Provide a command-by-command guide for uploading it?
-
-Let me know how hands-on you want this to be.
